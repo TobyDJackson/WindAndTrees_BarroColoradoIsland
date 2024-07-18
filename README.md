@@ -1,6 +1,8 @@
 The repository hosts the R code and summary data for the following paper: 
 'Wind shapes the growth strategies of trees in a tropical forest'. Jackson et al 2024. Ecology Letters.
 
+[![DOI](https://zenodo.org/badge/775025715.svg)](https://zenodo.org/doi/10.5281/zenodo.12772776)
+
 You can reproduce the figures and models from the paper using the R script "BCI4_analysis.R". 
 You will need the summary file "BCI_step3_output_dtrees_risk_with_exposure_17July24.csv" from the "summary_data" folder.
 
