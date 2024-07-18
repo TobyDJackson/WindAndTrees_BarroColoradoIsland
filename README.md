@@ -16,7 +16,9 @@ If you want to reproduce the whole analysis please download the full "summary_da
 This contains meta data for each tree and the manually segmented crowns for each tree. 
 
 For step 1, please download the raw bending strain data from https://doi.org/10.5285/f03806fa-3596-4119-90c5-70254f39cfc0
+
 For step 2, please download the wind speed data from https://smithsonian.figshare.com/articles/dataset/Barro_Colorado_Island_Lutz_tower_48m_Wind_Speed/10042427
+
 For step 3, please download the LiDAR data from https://smithsonian.figshare.com/articles/dataset/Digital_Surface_Models_Whole_Island_2018-2023/24021381
 
 output data from each step is also saved in the 'summary_data' folder so you can run part of the analysis. 
