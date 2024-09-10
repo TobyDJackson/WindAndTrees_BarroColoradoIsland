@@ -6,11 +6,11 @@ The repository hosts the R code and summary data for the following paper:
 You can reproduce the figures and models from the paper using the R script "BCI4_analysis.R". 
 You will need the summary file "BCI_step3_output_dtrees_risk_with_exposure_17July24.csv" from the "summary_data" folder.
 
-The full work flow consists of three previous steps. 
+The full work flow includes of three data processing steps. 
 
 Step 1 summarizes the 4 Hz bending strain data to hourly maxima per tree. 
 
-Step 2 fits these hourly maximum bending strains against wind speed to get a risk estimate per tree. 
+Step 2 fits these hourly maximum bending strains against wind speed to get a risk estimate per tree. This step reduces the number of trees from 109 to 95, to focus only on those where we have enough data and species replicates.
 
 Step 3 calculates the wind exposure for each tree from the local LiDAR data. 
 
